@@ -41,6 +41,7 @@ The application is deployed on a virtual machine using an Nginx server.
 - [Alembic](https://pypi.org/project/alembic/)
 - [Pydantic](https://docs.pydantic.dev/latest/)
 - [Docker](https://www.docker.com/)
+- [Nginx](https://nginx.org/en/)
 
 ## Running Locally
 
