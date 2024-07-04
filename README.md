@@ -1,8 +1,8 @@
 <img alt="SocialAPI - Social Media app" src="/assets/fastapi-social-media.png">
-    <h1 align="center">Social API</h1>
+    <h1 align="center">SocialAPI</h1>
 
 <p align="center">
-    FastAPI backend for social media app
+    FastAPI backend for a social media app
 </p>
 
 <p align="center">
