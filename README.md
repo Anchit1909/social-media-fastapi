@@ -31,6 +31,8 @@ SocialAPI is a backend for a social media app built using FastAPI. It has 4 main
 3. Auth Route: User registration and login system.
 4. Vote Route: Upvote system.
 
+The application is deployed on a virtual machine using an Nginx server.
+
 ## Tech Stack
 
 - [Python](https://www.python.org/)
