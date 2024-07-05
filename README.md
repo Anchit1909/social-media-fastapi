@@ -37,6 +37,7 @@ The application is deployed on a virtual machine using an Nginx server.
 
 - [Python](https://www.python.org/)
 - [FastAPI](https://fastapi.tiangolo.com/)
+- [PostgreSQL](https://www.postgresql.org/)
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Alembic](https://pypi.org/project/alembic/)
 - [Pydantic](https://docs.pydantic.dev/latest/)
